@@ -1,3 +1,8 @@
+
+#info {
+    float: left;
+}
+
 #name {
    background-color: #4aaaa5;
    color: aliceblue;
@@ -15,6 +20,11 @@
     height: 20%;
 }
 
-mainContent {
+#para {
+    float: left;
+}
+
+.mainContent {
     width: 960px;
+    clear: both;
 }
